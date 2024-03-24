@@ -1,12 +1,18 @@
 # ESP32-0-Template1
+
 **Startovací šablona pro projekty s deskou IoT ESP-WROOM-32**
 ```
-
+...
+```
 
 ## v1.2.OledDisplay.h
 ```
+...
+```
 
 ## v1.1.Neopixel.h
+```
+...
 ```
 
 
