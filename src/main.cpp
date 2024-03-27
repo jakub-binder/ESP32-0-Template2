@@ -10,5 +10,10 @@
 
 // -----------------------------------------------------------------
 // v1.2_OledDisplay - LCD 1306
-#include "v1.2.OledDisplay.h"
+//#include "v1.2.OledDisplay.h"
+//
+
+// -----------------------------------------------------------------
+// v1.3_DallasTemperature - DS18B20
+#include "v1.3.DallasTemperature.h"
 //
